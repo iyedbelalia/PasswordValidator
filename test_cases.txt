@@ -1,0 +1,15 @@
+Input: hello
+Expected Output: Score 2/6 - Weak
+
+Input: H3llo_World!
+Expected Output: Score 6/6 - Very Strong
+
+Input: password123
+Expected Output: Score 3/6 - Fair
+
+Input: ABC123!@#
+Expected Output: Score 5/6 - Strong
+
+Input: abc
+Expected Output: Score 1/6 - Very Weak
+
